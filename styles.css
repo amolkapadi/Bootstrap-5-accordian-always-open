@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    padding-top:5rem;
+    padding-bottom: 5rem;
+
+}
+.accordion-item {
+    margin-top: 27px;
+    
+}
+.accordion-button:focus {
+    box-shadow: none !important;
+}
